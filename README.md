@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**kurdoglu25/kurdoglu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hüseyin Zor 👋
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student at Ankara Bilim University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Software Engineering student passionate about software development, problem solving, and building real-world projects.
+
+My technical background includes Java, C++, Python, Git, and Data Structures & Algorithms. I enjoy learning how software systems work, from low-level concepts to practical applications.
+
+Currently, I am working on **Muhitinden**, a real estate platform project, while continuously improving my software engineering skills.
+
+## Interests
+
+* Artificial Intelligence
+* Computer Vision
+* Cyber Security
+* Software Development
+* Building Full-Stack Web Applications
+
+## Technologies
+
+* Java
+* C++
+* Python
+* Git
+* JavaScript
+* React
+* Next.js
+* Data Structures & Algorithms
+
+## Current Project
+
+🏠 Muhitinden – Real Estate Platform
+
+## Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/hüseyin-zor](http://www.linkedin.com/in/hüseyin-zor)
